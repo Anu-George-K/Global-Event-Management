@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.alert-warning{
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    color: red;
+
+}
+.nav-item{
+    color: aliceblue;
+
+}
+.search{
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline: none;
+    border: 2px solid
+}
+.btn{
+    height: 40px;
+    width: 40%;
+    outline: none;
+    border: none;
+    background: solid;
+}
+img.slide{
+    height: 750px;
+
+}
+.head1{
+    color: red;
+    font-size: 3rem;
+    line-height: 1.225;
+    color: #4a4a4a;
+    margin: 0 0 20px;
+    letter-spacing: inherit;
+    text-transform: inherit;
+    font-family: ITC Avant Garde Gothic,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+.e
+
+
+.event_para{
+    text-align: center;
+    font-family: ITC Avant Garde Gothic,sans-serif;
+    font-weight: 100;
+}
+
